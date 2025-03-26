@@ -1,0 +1,4 @@
+enum BubbleType {
+  sendBubble,
+  receiverBubble,
+}
